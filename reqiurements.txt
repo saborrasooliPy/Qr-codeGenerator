@@ -1,0 +1,2 @@
+qrcode
+output must open by photo viewer
